@@ -9,7 +9,7 @@ class Skills extends React.Component {
         </h1>
         <div className="wrapper_skill">
           <div>
-            <p>C++</p>
+            <p>C# .NET</p>
             <div className="container">
               <div
                 className="skills C"
@@ -66,7 +66,17 @@ class Skills extends React.Component {
                 data-aos="zoom-in"
                 data-aos-duration="1500"
               >
-                75%
+                70%
+              </div>
+            </div>
+            <p>AngularJs</p>
+            <div className="container">
+              <div
+                className="skills python"
+                data-aos="zoom-in"
+                data-aos-duration="1500"
+              >
+                70%
               </div>
             </div>
             <p>NodeJS</p>
@@ -79,7 +89,7 @@ class Skills extends React.Component {
                 70%
               </div>
             </div>
-            <p>MongoDB</p>
+            <p>Oracle,PosgresQL,SQL-Server</p>
             <div className="container">
               <div
                 className="skills db"
@@ -89,16 +99,7 @@ class Skills extends React.Component {
                 65%
               </div>
             </div>
-            <p>Python</p>
-            <div className="container">
-              <div
-                className="skills python"
-                data-aos="zoom-in"
-                data-aos-duration="1500"
-              >
-                50%
-              </div>
-            </div>
+            
           </div>
           <div />
         </div>

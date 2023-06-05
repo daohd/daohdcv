@@ -27,11 +27,9 @@ const Achievements = () => {
                       className="fa-li fa fa-trophy"
                       style={{ color: "#F1F2B5" }}
                     />
-                    Selected for Vigyan Manthan Yatra 2012-13 and recipient of
-                    the Scholarship offered to Top 100 students only by M.P.
-                    Council of Science and Technology.
+                    IT Mentorship Reward 2021
                   </li>
-                  <li>
+                  {/* <li>
                     <i
                       className="fa-li fa fa-trophy"
                       style={{ color: "#F1F2B5" }}
@@ -71,7 +69,7 @@ const Achievements = () => {
                     />
                     2<sup>nd</sup> position in Bharat-Manthan a quiz Competition
                     held in MANIT Bhopal
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </Paper>

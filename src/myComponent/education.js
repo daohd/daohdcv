@@ -30,11 +30,11 @@ function getSteps() {
 function getStepContent(step) {
   switch (step) {
     case 0:
-      return `Pursuing Bachelor of Engineering in Computer Science from Madhav Institute Of Technology And Science, Gwalior`;
+      return `Pursuing Bachelor of Engineering in Information system from University of Information Technology, VNUHCM - UIT`;
     case 1:
-      return "Completed Higher Secondary with 87% from Scholars's Home Public School, Bhopal";
+      return "Completed Higher Secondary Hai Lang - Quang Tri Province, Vietnam";
     case 2:
-      return `Completed High School with 92% from Robertson Convent Higher Secondary School, Umaria`;
+      return `Completed High School Hoi Yen - Hai Que - Hai Lang District - Quang Tri Province, Vietnam`;
     default:
       return "Unknown step";
   }
@@ -43,7 +43,7 @@ function getStepContent(step) {
 class VerticalLinearStepper extends Component {
   state = {
     activeStep: 0,
-    year: ["2016 - 2020", "2014 - 2015", "2013 - 2014"]
+    year: ["2015 - 2019", "2013 - 2015", "2010 - 2013"]
   };
   handleNext = () => {
     this.setState(state => ({

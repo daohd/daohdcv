@@ -17,10 +17,27 @@ const About = () => {
         <div className="new_about">
           <h1 className="about_h1">About Me</h1>
           <p data-aos="fade-up">
-            I am a full Stack Developer and pursuing my interest in Computer
-            Science and take it to the level where I can make some significant
-            contribution in the field of computer science that helps the
-            masses.Also I am good at
+            Hi! I am dao <br />
+            - I have 4 years experience on back end .Net C#
+            (Core,Framework),Java Restful API ,Spring boot, Gradle, Maven and
+            Fronend AngularJs,ReactJs...
+            <br />
+            - Database Oracle,SQL server, PosgresQL.
+            <br />
+            - Experience API gateway,microservices,saga pattern.
+            <br />
+            - Experience streaming data using apache kafka,apache
+            flink,ElasticSearch, caching IIS, Redis,Hazelcache,Memcached and
+            message queue RabbitMQ.
+            <br />
+            - Good maintenance and devops,
+            gitlab,CICD,Gitlab-runner,Docker,k8s,Jenkins
+            <br />
+            - With a passion to learn and cultivate new knowledge to develop
+            myself.
+            <br />
+            Finally, I hope to be able to devote my passion to your work and
+            learn new things to improve my skills.
           </p>
 
           <div className="row">
@@ -68,15 +85,31 @@ const About = () => {
                 </Tooltip>
                 <Tooltip
                   TransitionComponent={Zoom}
-                  title="NODEJS"
+                  title="C# .NET"
                   data-aos="zoom-out-left"
                   data-aos-duration="3000"
                 >
-                  <i className="fab fa-node fa-3x" aria-hidden="true" />
+                  <i className="fab fa-windows fa-3x" aria-hidden="true" />
                 </Tooltip>
                 <Tooltip
                   TransitionComponent={Zoom}
-                  title="MONGODB-DATABASE"
+                  title="k8s,Docker"
+                  data-aos="zoom-out-left"
+                  data-aos-duration="3000"
+                >
+                  <i className="fab fa-docker fa-3x" aria-hidden="true" />
+                </Tooltip>
+                <Tooltip
+                  TransitionComponent={Zoom}
+                  title="Git,Gitlab,Jenkins,gitlab-runner"
+                  data-aos="zoom-out-left"
+                  data-aos-duration="3000"
+                >
+                  <i className="fab fa-git fa-3x" aria-hidden="true" />
+                </Tooltip>
+                <Tooltip
+                  TransitionComponent={Zoom}
+                  title="ORACLE,POSTGRESQL,SQLSERVER-DATABASE"
                   data-aos="zoom-out-left"
                   data-aos-duration="3000"
                 >
@@ -89,17 +122,17 @@ const About = () => {
               <p data-aos="fade-up" className="contact-about">
                 <span>
                   <i className="fas fa-envelope" />
-                  guptarachit371@gmail.com
+                  daohd0412@gmail.com
                 </span>
 
                 <span>
                   <i className="fas fa-mobile-alt" />
-                  8462943194
+                  +84376795310
                 </span>
 
                 <span>
-                  <i className="fas fa-map-marker-alt" /> B-15,Pallavi Nagar,
-                  Bhopal
+                  <i className="fas fa-map-marker-alt" /> Thu Thiem Garden
+                  apartment,HCM
                 </span>
               </p>
             </div>

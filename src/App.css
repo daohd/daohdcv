@@ -62,14 +62,14 @@ html {
   z-index: -1;
 }
 .profile-img {
-  height: 150px;
-  width: 150px;
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 50px;
-  box-shadow: 5px 5px 5px lightyellow;
+  height: 180px;
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    box-shadow: 1px 2px 10px darkolivegreen;
 }
 .name-css {
   font-family: "Dancing Script", cursive;
@@ -300,7 +300,7 @@ ul li {
 }
 .workcard {
   color: white;
-  width: 345px;
+  width: 550px;
   background: #2c3e50; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to bottom,

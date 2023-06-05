@@ -47,34 +47,45 @@ class Experience extends Component {
         <div className="workchips">
           <Card className="workcard" data-aos="zoom-in-right">
             <CardContent className="work1">
-              <h1 style={{ color: "#f7f8f81" }}>Project Developer</h1>
+              <h1 style={{ color: "#f7f8f81" }}>Software Developer</h1>
             </CardContent>{" "}
             <Divider light />
             <CardContent>
               <i className="fas fa-map-marker-alt" />
-              <h2 style={{ color: "#cac531" }}>MITS</h2>
+              <h2 style={{ color: "#cac531" }}>MWG</h2>
               <Typography variant="body2" color="inherit" component="p">
-                Developed a full functional project for the MP Police . It is a
-                Crime Detection System which will identify the criminals in the
-                prone areas.
+              - Participated in developing and maintaining system CRM (ASP.NET MVC and HTML/CSS/Javascript) <br/>
+              - Database manipulation storage using Oracle Fuction,StoreProcedure,...<br/>
+              - Analyzed project requirement from Product Manager and Business Analyst<br/>
+              - Participated in optimizing, refactoring code<br/>
+              - Participated in deploying, logging and monitoring web application using IIS<br/>
+              (Windows OS),CICD,Gitlab.
+              - Participated in supporting system CRM for online sales service and customer care
               </Typography>
             </CardContent>
             <CardActions>
-              <span>Jan 2019 -</span>-<span>May 2019</span>
+              <span>Jan 2019 -</span>-<span>May 2021</span>
             </CardActions>
           </Card>
           <Card className="workcard" data-aos="zoom-in">
             <CardContent className="work1">
-              <h1 style={{ color: "#f7f8f81" }}>Web Developer</h1>
+              <h1 style={{ color: "#f7f8f81" }}>Backend Developer</h1>
             </CardContent>{" "}
             <Divider light />
             <CardContent>
               {" "}
               <i className="fas fa-map-marker-alt" />
-              <h2 style={{ color: "#cac531" }}>ACM Student Chapter</h2>
+              <h2 style={{ color: "#cac531" }}>MWG</h2>
               <Typography variant="body2" color="inherit">
-                Developed the official website for the event name AlgoRythm
-                conducted by <b> MITS ACM STUDENT CHAPTER</b>.
+              - Planned, designed structure, programmed, built, developed and
+deployed backend Customer Information Management(hundreds of millions of records) storage as EAV model core using Java Restful API,gradle spring boot database Posgresql,applied many design patterns such as: CQRS Pattern,
+Api Gateway,Graphdb,Elatisearch and caching using Memcached / Redis Cache, Hazelcast cache. <br/>
+- Maintain and deployed application Netcore using nginx,docker and Java using tomcat,docker,k8s,CICD gitlab-runner,...<br/>
+- Monitoring web application using IIS
+(Windows OS) and Linux (nginx, ansible,...) monitoring using prometheus,grafana and deploying using CICD ,Gitlab.<br/>
+- Planned, designed structure, programmed, built, developed and
+deployed backend for suggest commonly used payment method for customers using Java maven spring, CDC,apache Kafka,apache Flink.<br/>
+- Developing, maintaining website for CRM structure, architecture (ASP.NET Core/Framework). <b> MWG</b>.
               </Typography>
             </CardContent>
             <CardActions>
@@ -83,14 +94,24 @@ class Experience extends Component {
           </Card>
           <Card className="workcard" data-aos="zoom-in-left">
             <CardContent className="work1">
-              <h1 style={{ color: "#f7f8f81" }}>Backend Developer</h1>
+              <h1 style={{ color: "#f7f8f81" }}>Senior Software Engineer</h1>
             </CardContent>{" "}
             <Divider light />
             <CardContent>
               <i className="fas fa-map-marker-alt" />
-              <h2 style={{ color: "#cac531" }}>AgroGram</h2>
+              <h2 style={{ color: "#cac531" }}>MWG</h2>
               <Typography variant="body2" color="inherit" component="p">
-                Currently Working
+              - Building a backend product inventory calculation,purchase history using NET core 6 .<br/>
+- Participated in analyzing, developing, maintaining Caching system using inmemory cache and distributed cache such as Memcached,Redis,Hazelcast<br/>
+- Planned, designed structure, programmed, built, developed and
+deployed backend for customer communication management (CCM) Using Net core 5,Hazelcast Queue,failover channel (sms,zalo,messenger,notify app),webhook,callback url and Restful API.<br/>
+- Planned, designed structure, programmed, built, developed and
+deployed backend
+Restful API with .NET Core WebApi and Client-side Rendering with Reactjs
+Implemented the new form survey in all website of company
+using .Net 6.<br/>
+- Shared knowledge about Technical, Developing Culture, Design Pattern,
+etc... to members
               </Typography>
             </CardContent>
             <CardActions>

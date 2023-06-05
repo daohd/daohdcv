@@ -14,9 +14,9 @@ class HomePage extends Component {
                 <img src={profile} className="profile-img" />
               </div>
               <h1 className="name-css">
-                Rachit <span className="surname">Gupta</span>
+                Hoang Duong <span className="surname">Dao</span>
               </h1>
-              <p className="sub-detail">Artist and Developer</p>
+              <p className="sub-detail">Software Engineer</p>
               <br />
               <br />
 
@@ -24,16 +24,16 @@ class HomePage extends Component {
                 <p>Follow Me</p>
               </div>
               <p className="sub-detail2">
-                <a href="https://github.com/rachitgupta98">
+                <a href="https://github.com/daohd">
                   <i class="fab fa-github " />
                 </a>
-                <a href="https://www.instagram.com/_rachit_gupta/">
+                <a href="https://www.instagram.com/cr.dao97/">
                   <i class="fab fa-instagram " />
                 </a>
-                <a href="https://www.facebook.com/gr8.rachit">
+                <a href="https://www.facebook.com/hoangdao.cr">
                   <i class="fab fa-facebook-f" />
                 </a>
-                <a href="https://www.linkedin.com/in/rachit-gupta-906645147/">
+                <a href="https://www.linkedin.com/in/daohd/">
                   <i class="fab fa-linkedin" />
                 </a>
               </p>

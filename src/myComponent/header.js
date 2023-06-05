@@ -60,13 +60,13 @@ class Header extends Component {
               color="inherit"
               style={{ flexGrow: 1 }}
             >
-              <Button
+              {/* <Button
                 color="inherit"
                 style={{ fontSize: "1rem" }}
                 href="https://drive.google.com/file/d/14f8zSAXWWEuT3dpMwlGFyneJEV--vY3I/view"
               >
                 <i class="fas fa-cloud-download-alt"> DOWNLOAD CV</i>
-              </Button>
+              </Button> */}
             </Typography>
             <Hidden mdUp>
               <IconButton color="inherit" onClick={this.handleMenubutton}>
