@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7cb1f7fce885d6d1f769",
-    "url": "/daohdcv/static/css/main.35d952e0.chunk.css"
+    "revision": "d630d20afbe98a35f422",
+    "url": "/daohdcv/static/css/main.2226a557.chunk.css"
   },
   {
-    "revision": "7cb1f7fce885d6d1f769",
-    "url": "/daohdcv/static/js/main.7cb1f7fc.chunk.js"
+    "revision": "d630d20afbe98a35f422",
+    "url": "/daohdcv/static/js/main.d630d20a.chunk.js"
   },
   {
     "revision": "04bf97f3a99eacaf6651",
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/daohdcv/static/media/ab-img.8d7ae5ac.png"
   },
   {
-    "revision": "61c998a2aa5ccdc5e978e55433200b13",
-    "url": "/daohdcv/static/media/profile.61c998a2.jpg"
+    "revision": "e86768c2485465970a9723819fc2ada9",
+    "url": "/daohdcv/static/media/profile.e86768c2.jpg"
   },
   {
-    "revision": "04ec772dcbcbc9f28d6f3d08ff3ac9d0",
+    "revision": "4391ae57ca7da992699c59faf2d796c6",
     "url": "/daohdcv/index.html"
   }
 ];
