@@ -16,7 +16,7 @@ const About = () => {
         </div>
         <div className="new_about">
           <h1 className="about_h1">About Me</h1>
-          <p data-aos="fade-up">
+          <p data-aos="fade-up" className="about_p">
             Hi! I am dao <br />
             - I have 4 years experience on back end .Net C#
             (Core,Framework),Java Restful API ,Spring boot, Gradle, Maven and

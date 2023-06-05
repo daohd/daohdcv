@@ -265,6 +265,10 @@ ul li {
   display: flex;
   flex-direction: row;
 }
+.about_p {
+  text-align:left;
+    width: max-content;
+  }
 @media only screen and (max-width: 800px) {
   .about_row {
     flex-direction: column;
