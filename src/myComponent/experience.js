@@ -12,6 +12,7 @@ import Divider from "@material-ui/core/Divider";
 import { Hidden, Typography } from "@material-ui/core";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import JustifyContent from "autoprefixer/lib/hacks/justify-content";
 
 const particleoptions = {
   particles: {
@@ -44,7 +45,7 @@ class Experience extends Component {
             Work <span className="surname">Experience</span>
           </h1>
         </div>
-        <div className="workchips">
+        <div className="workchips" style={{JustifyContent:"center",display:"flex" }}>
           <Card className="workcard" data-aos="zoom-in-right">
             <CardContent className="work1">
               <h1 style={{ color: "#f7f8f81" }}>Software Developer</h1>
